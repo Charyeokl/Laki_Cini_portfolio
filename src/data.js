@@ -19,18 +19,18 @@ const data = {
       tech: ["WordPress", "PHP", "HTML5/CSS3", "JavaScript", "PayPal", "Stripe"]
     },
     {
-      title: "Habit Tracker App",
-      description: "Two-person project to track habits with streaks and reminders (in progress).",
+      title: "StungEye Blog",
+      description: "StungEye Blog Project for my Websecurity class.",
       image: "/assets/work2.jpg",
-      link: "https://example.com/habit-tracker",
-      tech: ["Rails", "PostgreSQL", "Tailwind", "Docker"]
+      link: "github.com/Charyeokl/blog",
+      tech: ["PHP", "Apache", "Debian", "HTML5/CSS3", "JavaScript.", "MySQL"]
     },
     {
-      title: "NBA Forum Auto-Poster",
-      description: "Automates game thread creation using NBA data APIs (in progress).",
+      title: "Underrated Ecommerce Store",
+      description: "Ecommerce store for my Agile class (in progress).",
       image: "/assets/work3.jpg",
-      link: "https://example.com/nba-forum",
-      tech: ["Rails", "Sidekiq", "Redis", "BALLDONTLIE API"]
+      link: "https://github.com/Charyeokl/underrated_store",
+      tech: ["Rails", "Sidekiq", "Ruby", " API", "HTML5/CSS3", "JavaScript", "PostgreSQL"]
     }
   ],
   skills: {
