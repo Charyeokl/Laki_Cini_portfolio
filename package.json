@@ -19,9 +19,10 @@
   "scripts": {
     "start": "cross-env PORT=5575 react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "lint": "eslint src/**/*.{js,jsx} --max-warnings=0"
   }
 }
