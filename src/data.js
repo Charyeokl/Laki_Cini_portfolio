@@ -14,7 +14,7 @@ const data = {
     {
       title: "SCHCCSAH Non‑Profit Site",
       description: "WordPress + PHP site for a non-profit. Improved performance and UX; integrated payments and events.",
-      image: "/assets/work1.jpg",
+      image: "/assets/work1.png",
       link: "https://schccsah.ca/",
       tech: ["WordPress", "PHP", "HTML5/CSS3", "JavaScript", "PayPal", "Stripe"]
     },
